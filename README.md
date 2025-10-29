@@ -26,13 +26,16 @@ O objetivo é apoiar o estudo, desenvolver o raciocínio lógico e promover boas
 As resoluções estão organizadas por **ficha prática**, permitindo que explores cada exercício de forma autónoma e progressiva.  
 Cada diretório contém código comentado e exemplos práticos para reforçar os conceitos abordados nas aulas.
 
-├── FichasPraticas/
-│ ├── Ficha1/
-│ ├── Ficha2/
-│ ├── Ficha3/
-│ ├── Ficha4/
-│ └── ...
-
+```text
+├── 6051_Algoritmia/
+│   ├── Ficha1/
+│   ├── Ficha2/
+│   └── ...
+├── 6052_Iniciacao/
+│   ├── Ficha1/
+│   ├── Ficha2/
+│   └── ...
+```
 ---
 
 ### 🔍 Temas Abordados
